@@ -1,0 +1,7 @@
+{
+  "name": "ObjectCounter Pro",
+  "description": "Customizable instance segmentation tool for counting and measuring any item. Setup with a sample image and count batches with precision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
